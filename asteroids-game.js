@@ -1,6 +1,6 @@
 // See license: https://github.com/erkie/erkie.github.com/blob/master/README
 // Modified for the Atom editor environment by Tom Preston-Werner.
-// USA_DDS#1
+// AUSA_DDS#1 and USA_DDS#1
 startAsteroids = function() {
 function Asteroids() {
 	if ( ! window.ASTEROIDS )
